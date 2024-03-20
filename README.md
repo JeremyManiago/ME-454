@@ -1,2 +1,2 @@
-# ME-454
+# PHYS-454
 Astrophysics Stuff
